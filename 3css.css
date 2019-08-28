@@ -13,7 +13,7 @@ body {width: 90%;
 	  font-family: 'Open Sans'
       background-color: #FFE1E6; 
       background: linear-gradient(108deg, rgb(255, 225, 230), rgb(54, 179, 196));
-      background-image: url(/home/hyfbe18/Documents/3htmlcss/progressive-enhancement/images/pink_rice.png);
+      background-image: url(images/pink_rice.png);
       background-repeat: no-repeat;
       background-position: bottom-right; 
       background-size: cover;} 
@@ -44,19 +44,19 @@ blockquote {width: 50%;
 .yeah{padding-bottom:15px; 
 	 padding-right: 15px;
 	 padding-top: 15px; 
-	 background-image: url(/home/hyfbe18/Documents/3htmlcss/progressive-enhancement/images/yeah.png); 	
+	 background-image: url(images/yeah.png); 	
 	 background-position: 350px;
 	 background-repeat: no-repeat;}
 .nope{padding-bottom:15px; 
 	 padding-right: 15px;
 	 padding-top: 15px; 
-	 background-image: url(/home/hyfbe18/Documents/3htmlcss/progressive-enhancement/images/nope.png); 	
+	 background-image: url(images/nope.png); 	
 	 background-position: 350px;
 	 background-repeat: no-repeat;}
 .cats{padding-bottom:30px; 
 	 padding-right: 15px;
 	 padding-top: 15px; 
-	 background-image: url(/home/hyfbe18/Documents/3htmlcss/progressive-enhancement/images/cats.png); 	
+	 background-image: url(images/cats.png); 	
 	 background-position: 350px;
 	 background-repeat: no-repeat;}
 .image{float: right; 
